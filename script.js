@@ -19,18 +19,18 @@ const quizQuestions = [
       question: "What would you say to your friend when you're leaving school for the day?",
       answers: [
         { text: "Bonjour", correct: false },
-        { text: "Comment ca va?", correct: false },
+        { text: "Comment ça va?", correct: false },
         { text: "A demain!", correct: true },
         { text: "Bienvenue", correct: false },
       ],
     },
     {
-      question: "What would your family before they start eating?",
+      question: "What would you say to your family before they start eating?",
       answers: [
         { text: "Merci beaucoup!", correct: false },
         { text: "Bon appetit!", correct: true },
-        { text: "Enchante!", correct: false },
-        { text: "Je suis fatigue!", correct: false },
+        { text: "Enchanté!", correct: false },
+        { text: "Je suis fatigué!", correct: false },
       ],
     },
     {
@@ -55,7 +55,7 @@ const quizQuestions = [
         question: "What do you say to greet your teacher in the morning?",
         answers: [
           { text: "Bonne nuit", correct: false },
-          { text: "Bon apres midi", correct: false },
+          { text: "Bon après midi", correct: false },
           { text: "Bonjour", correct: true },
           { text: "Bonsoir", correct: false },
         ],
@@ -75,7 +75,7 @@ const quizQuestions = [
         answers: [
           { text: "Salut!", correct: false },
           { text: "Comment tu t'appelle?", correct: false },
-          { text: "Enchante", correct: true },
+          { text: "Enchanté", correct: true },
           { text: "A toute a l'heure!", correct: false },
         ],
       },
